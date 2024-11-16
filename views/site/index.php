@@ -7,7 +7,7 @@ $this->title = 'My Yii Application';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>456Congratulations!</h1>
+        <h1>恭喜!</h1>
 
         <?php
         var_dump($data);
