@@ -7,7 +7,7 @@ $this->title = 'My Yii Application';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>这是dev分支!</h1>
+        <h1>测试push dev分支!</h1>
 
         <?php
         var_dump($data);
