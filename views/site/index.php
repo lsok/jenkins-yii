@@ -7,7 +7,7 @@ $this->title = 'My Yii Application';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>测试布署master分支!</h1>
+        <h1>只布署指定目录</h1>
 
         <?php
         var_dump($data);
